@@ -1,0 +1,28 @@
+name: The Daily Shit
+favicon: null
+layout_spectrum: 0.8442672600504011
+typography_spectrum: 0.04823407903313637
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.5976060575339943
+  lightness: 0.8708147092256695
+  saturation: 0.3650559331290424
+  rhythmicContrast: 0.8246516205836087
+purpose: []
