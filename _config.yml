@@ -1,7 +1,7 @@
 name: The Daily Shit
 favicon: null
 layout_spectrum: 0.87029
-typography_spectrum: 0.04823407903313637
+typography_spectrum: 0.38301
 title: "All The News That's Fit To Shit"
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#535353'
     - '#a6a6a6'
     - '#7e7e7e'
-  brandStrength: 0.5976060575339943
+  brandStrength: 0.875
   lightness: 0.8708147092256695
   saturation: 0.3650559331290424
   rhythmicContrast: 0.8246516205836087
